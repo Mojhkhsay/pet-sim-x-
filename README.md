@@ -1,2 +1,2 @@
-# pet-sim-x-
-loadstring(game:HttpGet("https://pastebin.com/raw/wg9suSjr"))()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/wg9ouSjr"))()
